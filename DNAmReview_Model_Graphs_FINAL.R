@@ -2,7 +2,6 @@
 #https://onlinelibrary.wiley.com/doi/10.1111/mec.17065
 #Final model and graphs
 #Marianthi Tangili
-#last updated 01/02/2023
 
 setwd("C:/Users/MWP-/Desktop/PhD/Review_DNAmWild/Figures/FINALfigures")
 
