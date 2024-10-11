@@ -99,7 +99,7 @@ library(bayestestR)
 bayestestR::p_direction(pos, method = "direct")
 p_direction(m10)
 
-###EMMEANS STUFF###
+###EMMEANS###
 
 # # estimate estimated marginal means
 # # estimated marginal means: show what the marginal means would be if the data set was balanced 
